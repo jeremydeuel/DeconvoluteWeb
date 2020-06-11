@@ -1,0 +1,20 @@
+{
+    "version": "1.0",
+    "referenceSpectra": {  
+       "Hb Met": {
+            "url": "refs/Hb_met.csv",
+            "selected": true,
+            "color": "#663300"
+        },
+       "Hb Oxy": {
+            "url": "refs/Hb_oxy.csv",
+            "selected": true,
+            "color": "#cc0000"
+        },
+       "Hx": {
+            "url": "refs/hpx.csv",
+            "selected": true,
+            "color": "#009999"
+        }
+    }
+}
